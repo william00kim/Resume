@@ -32,6 +32,6 @@
 |스포츠 - 하계캠프|여름의 운동위주|--|
 |경제수학|경제학에서 사용되는 수학 위주|--|
 
-github address: [K--JH][github]
+github address: [william00kim][github]
 
-[github]: http://github.com/K--JH
+[github]: http://github.com/william00kim
