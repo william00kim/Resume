@@ -31,7 +31,7 @@
 |즐거운수학적사고|위대한 정리|--|
 |스포츠 - 하계캠프|여름의 운동위주|--|
 |경제수학|경제학에서 사용되는 수학 위주|--|
-
+|김종현|잘생김|21|
 github address: [william00kim][github]
 
 [github]: http://github.com/william00kim
